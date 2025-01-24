@@ -19,7 +19,10 @@ A user-friendly and professional task management application built with **SwiftU
 
 ## Screenshots
 
-*(Add screenshots of your app here, if available)*
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-24 at 10 29 08](https://github.com/user-attachments/assets/e9465cd3-29b7-4742-a2a1-5511b85a2e7a)
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-24 at 10 29 42](https://github.com/user-attachments/assets/603765d3-d256-4b0d-b537-191c4dbf0153)
+
+
 
 ---
 
